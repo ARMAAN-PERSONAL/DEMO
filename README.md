@@ -1,3 +1,6 @@
 # DEMO
 This is my first Git-hub repository.
-Author-Armaan Singh,Student at Algonquin College,Ottawa
+<br>
+Author-Armaan Singh
+<br>
+Studying Computer Programming at Algonquin College,Ottawa
